@@ -1,0 +1,4 @@
+1. O trabalho aplicado foi feito em python, para abrir o executavel, entrar na pasta Exec->dist->trab_aplicado->e por final o executavel 
+trab_aplicado
+2. O arquivo Code_Trabalho_Aplicado contém o código do aplicativo
+3. O aplicativo executavel pode demorar um pouco pra carregra, coisa de 30 segundos.
